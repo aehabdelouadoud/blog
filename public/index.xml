@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AEH-ABDELOUADOUD BLOG</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on AEH-ABDELOUADOUD BLOG</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[~] whoami</title>
+      <link>http://localhost:1313/posts/post_1/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post_1/</guid>
+      <description>&lt;p&gt;Hi!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog 1</title>
+      <link>http://localhost:1313/posts/post_2/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post_2/</guid>
+      <description>&lt;p&gt;Sit neque, turpis elit finibus velit porta tempus cras mus. Nec in eu, leo nulla, urna vestibulum ullamcorper massa dui. Cras, augue dictum dictumst, congue pharetra etiam in tortor vulputate. Consequat tempor nullam eu in, ultrices tristique dui dui semper. Massa consectetur, vulputate in aliquam, elementum dictumst habitasse lorem dui.&lt;/p&gt;
+&lt;p&gt;Leo sed eu imperdiet et dignissim suscipit efficitur varius sapien. Amet, pharetra odio natoque aliquet facilisis tellus velit et faucibus. Turpis varius eu est adipiscing, nulla nullam tempor magna, ac. Nunc lacus dui interdum parturient, efficitur a placerat vestibulum ut. Ut suscipit aliquet elementum aliquam, integer leo eros non aliquet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog 2</title>
+      <link>http://localhost:1313/posts/post_3/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post_3/</guid>
+      <description>&lt;p&gt;Faucibus nulla placerat, eu dapibus eros nulla varius donec, libero. A, proin, auctor imperdiet dignissim id tempus vulputate vivamus in. Ligula nullam platea iaculis tempor tincidunt enim, vulputate eleifend arcu. Sed massa varius lacus eget porta eleifend eget enim ultricies. Aliquam porta vestibulum, varius penatibus ex pulvinar, dui semper tristique.&lt;/p&gt;
+&lt;p&gt;Est, in dapibus, nulla mus laoreet vitae nec dictum nullam. Ac, phasellus dictumst eu at tellus lectus finibus et, maximus. Dignissim nunc, mi, lorem metus facilisis vulputate tristique leo adipiscing. Odio velit rhoncus nec, massa, tortor ullamcorper cras nibh duis. Morbi ac aenean, metus consequat, quisque convallis ac dictum rutrum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog 3</title>
+      <link>http://localhost:1313/posts/post_4/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post_4/</guid>
+      <description>&lt;p&gt;Magnis massa tristique vulputate turpis nulla convallis nibh massa ut. Pellentesque, convallis ac habitasse, quisque ac sed sapien posuere convallis. Iaculis diam dolor condimentum justo pellentesque, duis sed, dignissim felis. Arcu consequat nisi eu eu diam sit quam est, nisi. Aliquam ut habitasse tempus tempor magnis amet sed sit praesent.&lt;/p&gt;
+&lt;p&gt;Nam ut consectetur volutpat tortor risus vestibulum, enim porta est. Magna eleifend, faucibus habitasse, gravida sagittis nascetur ornare nunc eget. Est in sed eget vitae eros ipsum aenean, eu, sed. Dolor molestie vivamus elementum interdum, viverra vitae sit nullam nulla. Velit sed sit et ac, congue convallis enim vestibulum vestibulum.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
